@@ -1,0 +1,147 @@
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:09:59', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:09:59', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:09:59 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:09:59', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:10:28', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:10:28', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 142  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 151  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:10:28 ) [ Line 162  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:10:28', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:34:37', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:37 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:34:37', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:34:48', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:34:48', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:34:48 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:34:48', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:10', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:10 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:10', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:11 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:11 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:11 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:11', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:35:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:35:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:37', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:37 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:37', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:38 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:38 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:38 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:38', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:57 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:57 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:57 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:57', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:58', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 151  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 160  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:36:58 ) [ Line 171  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:36:58', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:37:29', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:37:29', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:37:29 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:37:29', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:30 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:30 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:30 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:30', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:31', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:31 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:31', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:49', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:49', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:49 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:49', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:38:55 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:38:55', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:39:01', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:39:01', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 09:39:01 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '09:39:01', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 15:10:40 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:40 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:40 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '15:10:40', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '15:10:41', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:10:41 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '15:10:41', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 15:12:05 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:12:05 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:12:05 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '15:12:05', 'page': 'home'}
+[ Views ] : ( 02.08.2022 ~ 15:12:06 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:12:06 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 02.08.2022 ~ 15:12:06 ) [ Line 174  in databases.py ] : New Write ~ {'date': '02.08.2022', 'time': '15:12:06', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:49:15 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:15 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:16 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:49:16', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:49:16 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:16 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:16 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:49:16', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:49:18 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:18 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:49:18 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:49:18', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:55:45 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:45 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:45 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:55:45', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:55:46', 'page': 'home'}
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 154  in databases.py ] : Connect to Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 163  in databases.py ] : Create Table Data Base Success ~ None
+[ Views ] : ( 04.08.2022 ~ 23:55:46 ) [ Line 174  in databases.py ] : New Write ~ {'date': '04.08.2022', 'time': '23:55:46', 'page': 'home'}

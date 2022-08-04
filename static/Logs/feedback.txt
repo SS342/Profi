@@ -1,0 +1,14 @@
+[ FeedBack ] : ( 02.08.2022 ~ 09:41:30 ) [ Line 66  in databases.py ] : Connect to Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:41:30 ) [ Line 124  in databases.py ] : Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:41:38 ) [ Line 74  in databases.py ] : Create Table Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:41:38 ) [ Line 66  in databases.py ] : Connect to Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:41:38 ) [ Line 124  in databases.py ] : Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:04 ) [ Line 74  in databases.py ] : Create Table Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:04 ) [ Line 66  in databases.py ] : Connect to Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:04 ) [ Line 124  in databases.py ] : Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:05 ) [ Line 74  in databases.py ] : Create Table Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:05 ) [ Line 66  in databases.py ] : Connect to Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:05 ) [ Line 124  in databases.py ] : Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:55 ) [ Line 74  in databases.py ] : Create Table Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:55 ) [ Line 66  in databases.py ] : Connect to Data Base Success ~ None
+[ FeedBack ] : ( 02.08.2022 ~ 09:42:55 ) [ Line 124  in databases.py ] : Success ~ None
